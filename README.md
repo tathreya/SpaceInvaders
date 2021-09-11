@@ -1,2 +1,2 @@
-# Minesweeper
-Minesweeper game that I made in 2020
+# SpaceInvaders
+SpaceInvaders game that I made in 2020
